@@ -20,6 +20,9 @@ module.exports = async function (context, req) {
 
  let response = null;
   try {
+    // Use your OpenAI API key here
+    // You can get your key from https://beta.openai.com/account/api-keys
+    // You should set the key as an environment variable OPENAI_API_KEY
     const configuration = new Configuration({
         apiKey: "sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
       });

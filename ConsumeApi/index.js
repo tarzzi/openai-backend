@@ -21,7 +21,7 @@ module.exports = async function (context, req) {
  let response = null;
   try {
     const configuration = new Configuration({
-        apiKey: "sk-m3q0v3by3THHajttdATvT3BlbkFJGZn1E1hNtcngKUvnWYKJx",
+        apiKey: "sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
       });
       const openai = new OpenAIApi(configuration);
       const completion = await openai.createChatCompletion({

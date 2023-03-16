@@ -7,7 +7,7 @@ See [Webpart openai assistant](https://github.com/tarzzi/webpart-openai-assistan
 1. Previous knowledge about Azure functions
 
 Light reading
-- [Azure Functions Overview]([https://learn.microsoft.com/en-us/azure/azure-functions/functions-overview)
+- [Azure Functions Overview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-overview)
 - [Deploy your first app](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-vs-code-node)
 
 ## How to deploy

@@ -1,0 +1,12 @@
+{
+  "name": "openai-backend",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "openai": "^3.2.1"
+  }
+}
